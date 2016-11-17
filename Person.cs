@@ -21,5 +21,7 @@ namespace ExampleEF
         public string LastName { get; set; }
 
         public DateTime ModifiedDate { get; set; }
+
+        public string MiddleName { get; set; }
     }
 }
